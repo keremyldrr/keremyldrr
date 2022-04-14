@@ -28,7 +28,7 @@
  <div align="center">
   <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremyldrr&exclude_repo=Multiple-Object-Tracking-with-Tracktor,keremyildirir.github.io&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremyldrr&hide=javascript,html,tex,css,cmake,ipython,jupyter%20notebook&layout=compact&theme=tokyonight" />
 </a>
  </div>
  <!--
