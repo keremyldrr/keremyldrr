@@ -8,6 +8,8 @@
 <div align="center">
 <img align="center" src="/rotating.gif" alt="drawing" width="200"/>
  </div>
+ 
+ 
 - Currently writing my M.Sc thesis with Prof. Angela Dai at the Technical University of Munich. <br>
 - I love computer vision an my current research interests include 3d/2d object detection, tracking, 3d reconstruction and semantic scene understanding. 
 - I am a big Linux and Emacs fan and I love tinkering with my config files on my free time. 
