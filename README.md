@@ -10,10 +10,10 @@
  </div>
  
  
-- IT Consultant @ Netlight Consulting - Currently focusing on Cloud/DevOps Engineering, MLOps and efficient deployment of Machine Learning applications on distributed systems.
+- Deep Learning Engineer @ ramblr.ai
 - I love computer vision, my past experiences include 3d/2d object detection, tracking, 3d reconstruction and semantic scene understanding. 
 - I am a big Linux and Emacs fan and I love tinkering with my config files on my free time. 
-- You can reach out to me at keyi@netlight.com
+- You can reach out to me at keyi@ramblr.ai
 - For more information about me and my work, feel free to look at my [personal website](https://www.keremyildirir.com)
 
 
