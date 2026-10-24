@@ -10,7 +10,7 @@
  </div>
  
  
-- Deep Learning Engineer @ ramblr.ai -> Developing the coolest data annotation platform in the world😎
+- Deep Learning Engineer @ ramblr.ai -> Developing the cool computer vision solutions for various industries 😎
 - I love computer vision, my past experiences include 3d/2d object detection, tracking, 3d reconstruction and semantic scene understanding. 
 - I am a big Linux and Emacs fan and I love tinkering with my config files on my free time. 
 - You can reach out to me at kerem@ramblr.ai
